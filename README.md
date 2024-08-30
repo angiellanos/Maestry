@@ -1,2 +1,1 @@
-# Maestry
-Proyecto de maestría SURA
+# Proyecto de maestría para SURA
